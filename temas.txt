@@ -1,0 +1,7 @@
+PRIMER PARCIAL
+
+choice multiple 
+
+grilla, botones, modelo de clases herencia, agregacion, eventos, composicion, clases abstractas
+
+abstract, polimorfismo, clase que es statica y no estatic, miembros de instancia y miembros de clase. grillas, clase abstracta y otra que no sea abstracta. 
