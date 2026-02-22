@@ -1,0 +1,7 @@
+C:\Users\valen\Downloads\SistemaBecas\SistemaBecas\bin\Debug\SistemaBecas.exe.config
+C:\Users\valen\Downloads\SistemaBecas\SistemaBecas\bin\Debug\SistemaBecas.exe
+C:\Users\valen\Downloads\SistemaBecas\SistemaBecas\bin\Debug\SistemaBecas.pdb
+C:\Users\valen\Downloads\SistemaBecas\SistemaBecas\obj\Debug\SistemaBecas.csproj.AssemblyReference.cache
+C:\Users\valen\Downloads\SistemaBecas\SistemaBecas\obj\Debug\SistemaBecas.csproj.CoreCompileInputs.cache
+C:\Users\valen\Downloads\SistemaBecas\SistemaBecas\obj\Debug\SistemaBecas.exe
+C:\Users\valen\Downloads\SistemaBecas\SistemaBecas\obj\Debug\SistemaBecas.pdb

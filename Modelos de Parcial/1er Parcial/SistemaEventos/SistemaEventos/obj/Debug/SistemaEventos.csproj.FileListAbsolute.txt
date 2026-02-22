@@ -1,0 +1,7 @@
+C:\Users\valen\Downloads\SistemaEventos\SistemaEventos\bin\Debug\SistemaEventos.exe.config
+C:\Users\valen\Downloads\SistemaEventos\SistemaEventos\bin\Debug\SistemaEventos.exe
+C:\Users\valen\Downloads\SistemaEventos\SistemaEventos\bin\Debug\SistemaEventos.pdb
+C:\Users\valen\Downloads\SistemaEventos\SistemaEventos\obj\Debug\SistemaEventos.csproj.AssemblyReference.cache
+C:\Users\valen\Downloads\SistemaEventos\SistemaEventos\obj\Debug\SistemaEventos.csproj.CoreCompileInputs.cache
+C:\Users\valen\Downloads\SistemaEventos\SistemaEventos\obj\Debug\SistemaEventos.exe
+C:\Users\valen\Downloads\SistemaEventos\SistemaEventos\obj\Debug\SistemaEventos.pdb
