@@ -1,0 +1,10 @@
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\bin\Debug\ClaseFramework.exe.config
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\bin\Debug\ClaseFramework.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\bin\Debug\ClaseFramework.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\bin\Debug\AccesoDatos.dll
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\bin\Debug\AccesoDatos.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\obj\Debug\ClaseFramework.csproj.AssemblyReference.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\obj\Debug\ClaseFramework.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\obj\Debug\ClaseFra.2753C357.Up2Date
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\obj\Debug\ClaseFramework.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\ClaseFramework\obj\Debug\ClaseFramework.pdb

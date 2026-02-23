@@ -1,0 +1,14 @@
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\obj\Debug\net10.0\Clase1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\obj\Debug\net10.0\Clase1.AssemblyInfoInputs.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\obj\Debug\net10.0\Clase1.AssemblyInfo.cs
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\obj\Debug\net10.0\Clase1.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\bin\Debug\net10.0\Clase1.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\bin\Debug\net10.0\Clase1.deps.json
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\bin\Debug\net10.0\Clase1.runtimeconfig.json
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\bin\Debug\net10.0\Clase1.dll
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\bin\Debug\net10.0\Clase1.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\obj\Debug\net10.0\Clase1.dll
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\obj\Debug\net10.0\refint\Clase1.dll
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\obj\Debug\net10.0\Clase1.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\obj\Debug\net10.0\Clase1.genruntimeconfig.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Clase1\obj\Debug\net10.0\ref\Clase1.dll

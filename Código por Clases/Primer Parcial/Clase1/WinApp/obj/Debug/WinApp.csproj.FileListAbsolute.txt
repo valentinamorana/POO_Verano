@@ -1,0 +1,12 @@
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\obj\Debug\WinApp.csproj.AssemblyReference.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\bin\Debug\WinApp.exe.config
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\bin\Debug\WinApp.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\bin\Debug\WinApp.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\obj\Debug\WinApp.Principal.resources
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\obj\Debug\WinApp.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\obj\Debug\WinApp.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\obj\Debug\WinApp.Eventos.resources
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\WinApp\obj\Debug\WinApp.Polimorfismo.resources

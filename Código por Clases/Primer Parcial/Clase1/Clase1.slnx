@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AccesoDatos/AccesoDatos.csproj" Id="04a5dc46-ac49-4b02-a7c1-6bd00d0f7282" />
+  <Project Path="Clase1/Clase1.csproj" />
+  <Project Path="ClaseFramework/ClaseFramework.csproj" Id="c7d84247-63c4-47a8-bc6d-d4613b8b918a" />
+  <Project Path="WinApp/WinApp.csproj" Id="84dd6560-a7ea-4662-afe1-7ffbbd220987" />
+</Solution>
