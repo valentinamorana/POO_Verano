@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\ej23\\pruebalambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\ej23\\pruebalambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\ej23\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\ej23\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\ej23\\enun23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\ej23\\enun23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\ej22\\pruebalinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\ej22\\pruebalinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\ej22\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\ej22\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\ej21\\pruebagenericos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\ej21\\pruebagenericos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\ej21\\contenedorgenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\ej21\\contenedorgenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\ej22\\enun22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\ej22\\enun22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un5_morana_poo\\tp_un5_morana_poo\\ej21\\enun21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62DFC49-8F97-4827-A203-0EEFCDC49854}|TP_UN5_Morana_POO\\TP_UN5_Morana_POO.csproj|solutionrelative:tp_un5_morana_poo\\ej21\\enun21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\FormTest.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\FormTest.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\FormTest.cs [Design]",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\FormTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:10:21.987Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaLambda.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ23\\PruebaLambda.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\EJ23\\PruebaLambda.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ23\\PruebaLambda.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\EJ23\\PruebaLambda.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwA0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:32:08.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ23\\Numero.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\EJ23\\Numero.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ23\\Numero.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\EJ23\\Numero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:30:55.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PruebaLINQ.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ22\\PruebaLINQ.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\EJ22\\PruebaLINQ.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ22\\PruebaLINQ.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\EJ22\\PruebaLINQ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:23:01.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ22\\Producto.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\EJ22\\Producto.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ22\\Producto.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\EJ22\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:22:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTest.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\FormTest.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\FormTest.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\FormTest.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\FormTest.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:20:03.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PruebaGenericos.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ21\\PruebaGenericos.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\EJ21\\PruebaGenericos.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ21\\PruebaGenericos.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\EJ21\\PruebaGenericos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:17:32.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContenedorGenerico.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ21\\ContenedorGenerico.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\EJ21\\ContenedorGenerico.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ21\\ContenedorGenerico.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\EJ21\\ContenedorGenerico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:16:58.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ENUN23.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ23\\ENUN23.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\EJ23\\ENUN23.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ23\\ENUN23.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\EJ23\\ENUN23.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:15:58.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ENUN22.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ22\\ENUN22.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\EJ22\\ENUN22.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ22\\ENUN22.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\EJ22\\ENUN22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:15:53.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ENUN21.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ21\\ENUN21.cs",
+              "RelativeDocumentMoniker": "TP_UN5_Morana_POO\\EJ21\\ENUN21.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN5_Morana_POO\\TP_UN5_Morana_POO\\EJ21\\ENUN21.cs",
+              "RelativeToolTip": "TP_UN5_Morana_POO\\EJ21\\ENUN21.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:15:48.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
