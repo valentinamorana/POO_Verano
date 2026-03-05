@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F243421F-96C4-48E3-A228-30AE69739A7D}</ProjectGuid>
+    <ProjectGuid>{6F28C233-1762-47E8-8318-A0CFA7B7C11D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TP_UN3_Morana_POO</RootNamespace>
-    <AssemblyName>TP_UN3_Morana_POO</AssemblyName>
+    <RootNamespace>TP_UN4_Morana_POO</RootNamespace>
+    <AssemblyName>TP_UN4_Morana_POO</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,18 +46,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EJ13\ENUN13.cs" />
-    <Compile Include="EJ13\ObjetoPesado.cs" />
-    <Compile Include="EJ13\PruebaGC.cs" />
-    <Compile Include="EJ14\ENUN14.cs" />
-    <Compile Include="EJ14\PruebaResurreccion.cs" />
-    <Compile Include="EJ14\Zombie.cs" />
-    <Compile Include="EJ15\Calculadora.cs" />
-    <Compile Include="EJ15\ENUN15.cs" />
-    <Compile Include="EJ16\CuentaBancaria.cs" />
-    <Compile Include="EJ16\ENUN16.cs" />
-    <Compile Include="EJ16\PruebaErrorPersonalizado.cs" />
-    <Compile Include="EJ16\SaldoInsuficienteException.cs" />
+    <Compile Include="EJ17\ENUN17.cs" />
+    <Compile Include="EJ17\PersonaEJ17.cs" />
+    <Compile Include="EJ17\PruebaOrdenamiento.cs" />
+    <Compile Include="EJ18\CompararPorCategoria.cs" />
+    <Compile Include="EJ18\CompararPorCodigo.cs" />
+    <Compile Include="EJ18\CompararPorNombre.cs" />
+    <Compile Include="EJ18\CompararPorPrecio.cs" />
+    <Compile Include="EJ18\CompararPorStock.cs" />
+    <Compile Include="EJ18\ENUN18.cs" />
+    <Compile Include="EJ18\Producto.cs" />
+    <Compile Include="EJ18\PruebaArray.cs" />
+    <Compile Include="EJ19\ENUN19.cs" />
+    <Compile Include="EJ19\PersonaEJ19.cs" />
+    <Compile Include="EJ19\PruebaClone.cs" />
+    <Compile Include="EJ20\Alumno.cs" />
+    <Compile Include="EJ20\EnumeradorAlumnos.cs" />
+    <Compile Include="EJ20\ENUN20.cs" />
+    <Compile Include="EJ20\ListaAlumnos.cs" />
+    <Compile Include="EJ20\PruebaEnumerable.cs" />
     <Compile Include="FormTest.cs">
       <SubType>Form</SubType>
     </Compile>

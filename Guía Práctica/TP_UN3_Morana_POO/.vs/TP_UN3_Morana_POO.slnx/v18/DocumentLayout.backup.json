@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN3_Morana_POO\\",
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\tp_un3_morana_poo\\tp_un3_morana_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\ej16\\pruebaerrorpersonalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\ej16\\pruebaerrorpersonalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\ej16\\saldoinsuficienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\ej16\\saldoinsuficienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\ej16\\enun16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\ej16\\enun16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\ej16\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\ej16\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\tp_un3_morana_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\ej15\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\ej15\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\ej14\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\ej14\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\ej14\\pruebaresurreccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\ej14\\pruebaresurreccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un3_morana_poo\\tp_un3_morana_poo\\formtest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F243421F-96C4-48E3-A228-30AE69739A7D}|TP_UN3_Morana_POO\\TP_UN3_Morana_POO.csproj|solutionrelative:tp_un3_morana_poo\\formtest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +54,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\Program.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\Program.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\Program.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:02:39.579Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\FormTest.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\FormTest.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\FormTest.cs [Design]",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\FormTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:51:34.654Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ENUN16.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ16\\ENUN16.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\EJ16\\ENUN16.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ16\\ENUN16.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\EJ16\\ENUN16.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:01:39.784Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -23,14 +103,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\Form1.cs",
-              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\Form1.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\Form1.cs [Design]",
-              "RelativeToolTip": "TP_UN3_Morana_POO\\Form1.cs [Design]",
+              "Title": "PruebaErrorPersonalizado.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ16\\PruebaErrorPersonalizado.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\EJ16\\PruebaErrorPersonalizado.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ16\\PruebaErrorPersonalizado.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\EJ16\\PruebaErrorPersonalizado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T03:52:40.256Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-05T05:59:26.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ16\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\EJ16\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ16\\CuentaBancaria.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\EJ16\\CuentaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:58:57.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaldoInsuficienteException.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ16\\SaldoInsuficienteException.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\EJ16\\SaldoInsuficienteException.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ16\\SaldoInsuficienteException.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\EJ16\\SaldoInsuficienteException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:57:57.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ15\\Calculadora.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\EJ15\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ15\\Calculadora.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\EJ15\\Calculadora.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:53:33.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ14\\Zombie.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\EJ14\\Zombie.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ14\\Zombie.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\EJ14\\Zombie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:55:10.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTest.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\FormTest.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\FormTest.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\FormTest.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\FormTest.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAewDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:51:36.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PruebaResurreccion.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ14\\PruebaResurreccion.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\EJ14\\PruebaResurreccion.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\EJ14\\PruebaResurreccion.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\EJ14\\PruebaResurreccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:54:15.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormTest.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\FormTest.Designer.cs",
+              "RelativeDocumentMoniker": "TP_UN3_Morana_POO\\FormTest.Designer.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN3_Morana_POO\\TP_UN3_Morana_POO\\FormTest.Designer.cs",
+              "RelativeToolTip": "TP_UN3_Morana_POO\\FormTest.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:52:53.392Z",
+              "EditorCaption": ""
             }
           ]
         }

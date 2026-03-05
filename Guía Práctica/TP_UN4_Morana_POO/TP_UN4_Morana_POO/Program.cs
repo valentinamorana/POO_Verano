@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TP_UN3_Morana_POO
+namespace TP_UN4_Morana_POO
 {
     internal static class Program
     {
