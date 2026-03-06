@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un6_morana_poo\\tp_un6_morana_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un6_morana_poo\\tp_un6_morana_poo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un6_morana_poo\\tp_un6_morana_poo\\ej25\\formservidor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\ej25\\formservidor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un6_morana_poo\\tp_un6_morana_poo\\ej25\\formservidor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\ej25\\formservidor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un6_morana_poo\\tp_un6_morana_poo\\ej25\\formcliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\ej25\\formcliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un6_morana_poo\\tp_un6_morana_poo\\ej25\\formcliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\ej25\\formcliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un6_morana_poo\\tp_un6_morana_poo\\ej25\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\ej25\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\tp_un6_morana_poo\\ej24\\formservidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\ej24\\formservidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\tp_un6_morana_poo\\ej24\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\ej24\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa pr\u00E1ctica\\tp_un6_morana_poo\\tp_un6_morana_poo\\ej25\\formcliente2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\ej25\\formcliente2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\tp_un6_morana_poo\\ej26\\formpuertoparalelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC47F29-8B1A-4D93-A7D6-F41101D39071}|TP_UN6_Morana_POO\\TP_UN6_Morana_POO.csproj|solutionrelative:tp_un6_morana_poo\\ej26\\formpuertoparalelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ24\\FormCliente.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\EJ24\\FormCliente.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ24\\FormCliente.cs [Design]",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\EJ24\\FormCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T22:34:56.451Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormServidor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ24\\FormServidor.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\EJ24\\FormServidor.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ24\\FormServidor.cs [Design]",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\EJ24\\FormServidor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T23:20:29.485Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormPuertoParalelo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ26\\FormPuertoParalelo.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\EJ26\\FormPuertoParalelo.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ26\\FormPuertoParalelo.cs [Design]",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\EJ26\\FormPuertoParalelo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T23:20:32.245Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\Program.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\Program.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\Program.cs",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T23:20:34.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCliente2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormCliente2.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\EJ25\\FormCliente2.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormCliente2.cs [Design]",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\EJ25\\FormCliente2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:36:44.589Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormServidor2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormServidor2.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\EJ25\\FormServidor2.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormServidor2.cs [Design]",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\EJ25\\FormServidor2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:36:47.926Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\App.config",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\App.config",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\App.config",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-06T00:46:59.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormServidor2.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormServidor2.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\EJ25\\FormServidor2.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormServidor2.cs",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\EJ25\\FormServidor2.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:45:04.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCliente2.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormCliente2.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\EJ25\\FormCliente2.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormCliente2.cs",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\EJ25\\FormCliente2.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:43:01.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\ChatServer.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\EJ25\\ChatServer.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\ChatServer.cs",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\EJ25\\ChatServer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:39:41.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormCliente2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormCliente2.Designer.cs",
+              "RelativeDocumentMoniker": "TP_UN6_Morana_POO\\EJ25\\FormCliente2.Designer.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Pr\u00E1ctica\\TP_UN6_Morana_POO\\TP_UN6_Morana_POO\\EJ25\\FormCliente2.Designer.cs",
+              "RelativeToolTip": "TP_UN6_Morana_POO\\EJ25\\FormCliente2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:33:18.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
