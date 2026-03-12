@@ -1,202 +1,191 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\",
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\tp_un1_morana_poo\\tp_un1_morana_poo\\ej1\\universidadforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\universidadforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\universidadforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\universidadforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\universidadforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\universidadforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\personas\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\personas\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\cursadas\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\cursadas\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\formej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\formej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\formej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\formej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\vehiculoformsej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\gu\u00EDa ejercicios\\tp_un1_morana_poo\\tp_un1_morana_poo\\ej4\\vehiculoformsej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej4\\vehiculoformsej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\vehiculoformsej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\vehiculoformsej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej4\\vehiculoformsej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\personas\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\personas\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\universidadforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\universidadforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\universidadforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\universidadforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\universidadforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\universidadforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\cursadas\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\cursadas\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\formej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\formej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\formej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\formej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\dominio\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\mediotransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\mediotransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\dominio\\mediotransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\dominio\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\monopatin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\monopatin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\dominio\\monopatin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\dominio\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\dominio\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\clasificacion\\clasificacionprototipica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\clasificacion\\clasificacionprototipica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\clasificacion\\clasificacionprototipica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\clasificacion\\clasificacionclasica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\clasificacion\\clasificacionclasica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\clasificacion\\clasificacionclasica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\clasificacion\\iclasificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\clasificacion\\iclasificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\clasificacion\\iclasificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\clasificacion\\clasificacionconceptual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\clasificacion\\clasificacionconceptual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\clasificacion\\clasificacionconceptual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\vehiculoaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\vehiculoaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej4\\vehiculoaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej4\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\ivolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\ivolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej4\\ivolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\iconducible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\iconducible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej4\\iconducible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\5enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej5\\5enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej5\\5enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\vehiculoformsej3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\vehiculoformsej3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej3\\vehiculoformsej3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\vehiculoformsej3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\vehiculoformsej3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej3\\vehiculoformsej3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\vehiculoformsej4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\vehiculoformsej4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej4\\vehiculoformsej4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\3enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\3enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej3\\3enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\4enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej4\\4enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej4\\4enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej2\\2enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej2\\2enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej2\\2enunciado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\universidades\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej1\\universidades\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej1\\universidades\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej3\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej3\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej3\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej3\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej3\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej2\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej2\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej2\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej2\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\tp_un1_morana_poo\\ej2\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C819AB-5327-4FB0-8570-FEAB61B6D1F3}|TP_UN1_Morana_POO\\TP_UN1_Morana_POO.csproj|solutionrelative:tp_un1_morana_poo\\ej2\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Cursadas\\Materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Comision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Universidades\\Comision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Comision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Universidades\\Carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Facultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Universidades\\Facultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Facultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Personas\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Universidades\\Universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Cursada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Cursadas\\Cursada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Cursada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Cursadas\\Calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Personas\\Alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\Personas\\Profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\1ENUNCIADO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP_UN1_Morana_POO\\TP1\\1ENUNCIADO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\1ENUNCIADO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -206,55 +195,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UniversidadForms.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.Designer.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ1\\UniversidadForms.Designer.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.Designer.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.Designer.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ1\\UniversidadForms.Designer.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAwwMYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T17:23:41.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UniversidadForms.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T17:21:43.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T17:21:43.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UniversidadForms.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs [Design]",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs [Design]",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ1\\UniversidadForms.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T17:05:39.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Personas\\Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Personas\\Alumno.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ1\\Personas\\Alumno.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Personas\\Alumno.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Personas\\Alumno.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ1\\Personas\\Alumno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,34 +254,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "VehiculoFormsEJ4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs [Design]",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs [Design]",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T03:26:23.212Z"
+              "WhenOpened": "2026-02-21T03:26:23.212Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "VehiculoFormsEJ4.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAApwBQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T03:30:47.815Z"
+              "WhenOpened": "2026-02-21T03:30:47.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Calificacion.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Cursadas\\Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Cursadas\\Calificacion.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ1\\Cursadas\\Calificacion.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Cursadas\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Cursadas\\Calificacion.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ1\\Cursadas\\Calificacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,11 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\Program.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\Program.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\Program.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\Program.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,9 +305,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "MedioTransporte.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\MedioTransporte.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\MedioTransporte.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\Dominio\\MedioTransporte.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\MedioTransporte.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\MedioTransporte.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\Dominio\\MedioTransporte.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,9 +317,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Bicicleta.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Bicicleta.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\Dominio\\Bicicleta.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Bicicleta.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\Dominio\\Bicicleta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -333,22 +327,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FormEJ5.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs [Design]",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs [Design]",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T16:31:07.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "FormEJ5.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\FormEJ5.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAApwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -358,9 +352,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Monopatin.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Monopatin.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Monopatin.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\Dominio\\Monopatin.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Monopatin.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Monopatin.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\Dominio\\Monopatin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -370,9 +364,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ClasificacionPrototipica.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionPrototipica.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionPrototipica.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionPrototipica.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionPrototipica.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionPrototipica.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionPrototipica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,9 +376,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "ClasificacionClasica.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionClasica.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionClasica.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionClasica.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionClasica.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionClasica.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionClasica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,9 +388,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "IClasificador.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\IClasificador.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\IClasificador.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\Clasificacion\\IClasificador.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\IClasificador.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\IClasificador.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\Clasificacion\\IClasificador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -406,9 +400,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Moto.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Moto.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Moto.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\Dominio\\Moto.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Moto.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Moto.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\Dominio\\Moto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -418,9 +412,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Auto.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Auto.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Auto.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\Dominio\\Auto.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Auto.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Dominio\\Auto.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\Dominio\\Auto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,9 +424,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ClasificacionConceptual.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionConceptual.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionConceptual.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionConceptual.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionConceptual.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionConceptual.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\Clasificacion\\ClasificacionConceptual.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -442,9 +436,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\App.config",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\App.config",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\App.config",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\App.config",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\App.config",
               "RelativeToolTip": "TP_UN1_Morana_POO\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -454,9 +448,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "VehiculoAccion.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoAccion.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoAccion.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ4\\VehiculoAccion.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoAccion.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoAccion.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ4\\VehiculoAccion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -466,9 +460,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\Vehiculo.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ4\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\Vehiculo.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ4\\Vehiculo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -478,9 +472,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "IVolador.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\IVolador.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\IVolador.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ4\\IVolador.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\IVolador.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\IVolador.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ4\\IVolador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -490,9 +484,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "IConducible.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\IConducible.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\IConducible.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ4\\IConducible.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\IConducible.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\IConducible.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ4\\IConducible.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -502,9 +496,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "VehiculoFormsEJ3.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAQwHEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -514,10 +508,10 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "VehiculoFormsEJ3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs [Design]",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs [Design]",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\VehiculoFormsEJ3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T03:50:04.102Z"
             },
@@ -525,9 +519,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "5ENUNCIADO.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\5ENUNCIADO.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\5ENUNCIADO.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ5\\5ENUNCIADO.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\5ENUNCIADO.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ5\\5ENUNCIADO.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ5\\5ENUNCIADO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,9 +531,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "VehiculoFormsEJ4.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.Designer.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.Designer.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.Designer.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.Designer.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ4\\VehiculoFormsEJ4.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -549,9 +543,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "3ENUNCIADO.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\3ENUNCIADO.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\3ENUNCIADO.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ3\\3ENUNCIADO.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\3ENUNCIADO.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\3ENUNCIADO.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ3\\3ENUNCIADO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -561,9 +555,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "2ENUNCIADO.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\2ENUNCIADO.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\2ENUNCIADO.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ2\\2ENUNCIADO.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\2ENUNCIADO.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\2ENUNCIADO.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ2\\2ENUNCIADO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -573,9 +567,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "4ENUNCIADO.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\4ENUNCIADO.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\4ENUNCIADO.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ4\\4ENUNCIADO.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\4ENUNCIADO.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ4\\4ENUNCIADO.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ4\\4ENUNCIADO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -585,9 +579,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "Universidad.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Universidades\\Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Universidades\\Universidad.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ1\\Universidades\\Universidad.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Universidades\\Universidad.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ1\\Universidades\\Universidad.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ1\\Universidades\\Universidad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -597,9 +591,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Moto.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Moto.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Moto.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ3\\Moto.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Moto.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Moto.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ3\\Moto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -609,9 +603,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "Camion.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Camion.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Camion.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ3\\Camion.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Camion.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Camion.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ3\\Camion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -621,9 +615,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Auto.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Auto.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Auto.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ3\\Auto.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Auto.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Auto.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ3\\Auto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -633,9 +627,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Vehiculo.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ3\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ3\\Vehiculo.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ3\\Vehiculo.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -645,10 +639,10 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Banco.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\Banco.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\Banco.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ2\\Banco.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\Banco.cs [Design]",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\EJ2\\Banco.cs [Design]",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\Banco.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T23:32:55.736Z"
             },
@@ -656,9 +650,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Cuenta.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\Cuenta.cs",
               "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\EJ2\\Cuenta.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\Gu\u00EDa Ejercicios\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\EJ2\\Cuenta.cs",
               "RelativeToolTip": "TP_UN1_Morana_POO\\EJ2\\Cuenta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -669,9 +663,9 @@
               "DocumentIndex": 39,
               "Title": "Comision.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Comision.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Universidades\\Comision.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Comision.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Comision.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Universidades\\Comision.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Comision.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:32:03.996Z"
@@ -681,9 +675,9 @@
               "DocumentIndex": 40,
               "Title": "Carrera.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Carrera.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Universidades\\Carrera.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Carrera.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Carrera.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Universidades\\Carrera.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Carrera.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:31:40.676Z"
@@ -693,9 +687,9 @@
               "DocumentIndex": 41,
               "Title": "Facultad.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Facultad.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Universidades\\Facultad.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Facultad.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Facultad.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Universidades\\Facultad.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Facultad.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:31:26.708Z"
@@ -705,9 +699,9 @@
               "DocumentIndex": 42,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Persona.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Personas\\Persona.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Persona.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Persona.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Personas\\Persona.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:25:55.06Z"
@@ -717,9 +711,9 @@
               "DocumentIndex": 43,
               "Title": "Universidad.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Universidad.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Universidades\\Universidad.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Universidad.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Universidad.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Universidades\\Universidad.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Universidades\\Universidad.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAuwCYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:31:16.048Z"
@@ -729,9 +723,9 @@
               "DocumentIndex": 44,
               "Title": "Cursada.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Cursada.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Cursadas\\Cursada.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Cursada.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Cursada.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Cursadas\\Cursada.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Cursada.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T03:31:17.795Z"
@@ -741,9 +735,9 @@
               "DocumentIndex": 38,
               "Title": "Materia.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Materia.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Cursadas\\Materia.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Materia.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Materia.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Cursadas\\Materia.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Materia.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:31:55.044Z"
             },
@@ -752,9 +746,9 @@
               "DocumentIndex": 45,
               "Title": "Calificacion.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Calificacion.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Cursadas\\Calificacion.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Calificacion.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Calificacion.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Cursadas\\Calificacion.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Cursadas\\Calificacion.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:32:45.673Z"
@@ -764,9 +758,9 @@
               "DocumentIndex": 46,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Alumno.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Personas\\Alumno.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Alumno.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Alumno.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Personas\\Alumno.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Alumno.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:26:31.97Z"
@@ -776,9 +770,9 @@
               "DocumentIndex": 47,
               "Title": "Profesor.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Profesor.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\Personas\\Profesor.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Profesor.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Profesor.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\Personas\\Profesor.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\Personas\\Profesor.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:27:06.985Z"
@@ -788,9 +782,9 @@
               "DocumentIndex": 48,
               "Title": "1ENUNCIADO.cs",
               "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\1ENUNCIADO.cs",
-              "RelativeDocumentMoniker": "TP_UN1_Morana_POO\\TP1\\1ENUNCIADO.cs",
+              "RelativeDocumentMoniker": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\1ENUNCIADO.cs",
               "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\1ENUNCIADO.cs",
-              "RelativeToolTip": "TP_UN1_Morana_POO\\TP1\\1ENUNCIADO.cs",
+              "RelativeToolTip": "..\\..\\TP_UN1_Morana_POO\\TP_UN1_Morana_POO\\TP1\\1ENUNCIADO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:26:07.528Z"

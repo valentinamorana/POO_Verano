@@ -1,0 +1,10 @@
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\bin\Debug\POO_2doParcial_Morana_Valentina.exe.config
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\bin\Debug\POO_2doParcial_Morana_Valentina.exe
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\bin\Debug\POO_2doParcial_Morana_Valentina.pdb
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\obj\Debug\POO_2doParcial_Morana_Valentina.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\obj\Debug\POO_2doParcial_Morana_Valentina.Form1.resources
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\obj\Debug\POO_2doParcial_Morana_Valentina.Properties.Resources.resources
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\obj\Debug\POO_2doParcial_Morana_Valentina.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\obj\Debug\POO_2doParcial_Morana_Valentina.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\obj\Debug\POO_2doParcial_Morana_Valentina.exe
+C:\Users\valen\source\repos\POO\Parciales\SEGUNDO PARCIAL\POO_2doParcial_Morana_Valentina\POO_2doParcial_Morana_Valentina\obj\Debug\POO_2doParcial_Morana_Valentina.pdb

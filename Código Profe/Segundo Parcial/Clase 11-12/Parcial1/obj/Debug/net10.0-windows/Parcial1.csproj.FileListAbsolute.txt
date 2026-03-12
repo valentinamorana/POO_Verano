@@ -1,0 +1,16 @@
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\bin\Debug\net10.0-windows\Parcial1.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\bin\Debug\net10.0-windows\Parcial1.deps.json
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\bin\Debug\net10.0-windows\Parcial1.runtimeconfig.json
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\bin\Debug\net10.0-windows\Parcial1.dll
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\bin\Debug\net10.0-windows\Parcial1.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\Parcial1.Form1.resources
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\Parcial1.csproj.GenerateResource.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\Parcial1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\Parcial1.AssemblyInfoInputs.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\Parcial1.AssemblyInfo.cs
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\Parcial1.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\Parcial1.dll
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\refint\Parcial1.dll
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\Parcial1.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\Parcial1.genruntimeconfig.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Parcial1\obj\Debug\net10.0-windows\ref\Parcial1.dll

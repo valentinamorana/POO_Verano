@@ -1,0 +1,675 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5509EF34-B554-4925-98A2-1E97ADDB45D1}|Exceptions\\Exceptions.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\exceptions\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5509EF34-B554-4925-98A2-1E97ADDB45D1}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5509EF34-B554-4925-98A2-1E97ADDB45D1}|Exceptions\\Exceptions.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5509EF34-B554-4925-98A2-1E97ADDB45D1}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5509EF34-B554-4925-98A2-1E97ADDB45D1}|Exceptions\\Exceptions.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\exceptions\\saldonegativoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5509EF34-B554-4925-98A2-1E97ADDB45D1}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\saldonegativoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\parcial1\\parcial1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\parcial1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AccesoDatos||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\parcial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\parcial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\parcial1\\modelo\\furgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\modelo\\furgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\parcial1\\modelo\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\modelo\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\parcial1\\modelo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\modelo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\parcial1\\parcial1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48B7D009-76AF-4AB2-BCD0-44AEB434E35E}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\parcial1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\polimorfismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\polimorfismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\polimorfismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\polimorfismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\modelo\\polimorfismo\\dibujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\modelo\\polimorfismo\\dibujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\modelo\\polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\modelo\\polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\modelo\\miembros de clase\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\modelo\\miembros de clase\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\modelo\\polimorfismo\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\modelo\\polimorfismo\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\modelo\\polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\modelo\\polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\modelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\modelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WinApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\claseframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|solutionrelative:claseframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\winapp\\modelo\\claseindizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD6560-A7EA-4662-AFE1-7FFBBD220987}|WinApp\\WinApp.csproj|solutionrelative:winapp\\modelo\\claseindizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\claseframework\\clase3\\clienteencapsulamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|solutionrelative:claseframework\\clase3\\clienteencapsulamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\claseframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|solutionrelative:claseframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\claseframework\\clase2\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|solutionrelative:claseframework\\clase2\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A5DC46-AC49-4B02-A7C1-6BD00D0F7282}|AccesoDatos\\AccesoDatos.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\accesodatos\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A5DC46-AC49-4B02-A7C1-6BD00D0F7282}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\claseframework\\clase2\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|solutionrelative:claseframework\\clase2\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\claseframework\\clase2\\oficial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|solutionrelative:claseframework\\clase2\\oficial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\claseframework\\clase2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D84247-63C4-47A8-BC6D-D4613B8B918A}|ClaseFramework\\ClaseFramework.csproj|solutionrelative:claseframework\\clase2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A092694-7FAC-58B7-C310-23F7DDFA5BE0}|Clase1\\Clase1.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\clase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A092694-7FAC-58B7-C310-23F7DDFA5BE0}|Clase1\\Clase1.csproj|solutionrelative:clase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A092694-7FAC-58B7-C310-23F7DDFA5BE0}|Clase1\\Clase1.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\clase1\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A092694-7FAC-58B7-C310-23F7DDFA5BE0}|Clase1\\Clase1.csproj|solutionrelative:clase1\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A5DC46-AC49-4B02-A7C1-6BD00D0F7282}|AccesoDatos\\AccesoDatos.csproj|D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\accesodatos\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A5DC46-AC49-4B02-A7C1-6BD00D0F7282}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A5DC46-AC49-4B02-A7C1-6BD00D0F7282}|AccesoDatos\\AccesoDatos.csproj|d:\\facultad\\poo\\cursada verano\\clase1\\clase1\\accesodatos\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaldoNegativoException.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Exceptions\\SaldoNegativoException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\SaldoNegativoException.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Exceptions\\SaldoNegativoException.cs",
+              "RelativeToolTip": "Exceptions\\SaldoNegativoException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:59:10.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Exceptions\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Cuenta.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Exceptions\\Cuenta.cs",
+              "RelativeToolTip": "Exceptions\\Cuenta.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:57:37.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Program.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Exceptions\\Program.cs",
+              "RelativeToolTip": "Exceptions\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:44:33.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parcial1",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Parcial1.csproj",
+              "RelativeDocumentMoniker": "Parcial1\\Parcial1.csproj",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Parcial1.csproj",
+              "RelativeToolTip": "Parcial1\\Parcial1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T23:08:17.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccesoDatos",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\AccesoDatos\\AccesoDatos.csproj",
+              "RelativeDocumentMoniker": "AccesoDatos\\AccesoDatos.csproj",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\AccesoDatos\\AccesoDatos.csproj",
+              "RelativeToolTip": "AccesoDatos\\AccesoDatos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-25T22:33:20.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Modelo\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Parcial1\\Modelo\\Vehiculo.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Modelo\\Vehiculo.cs",
+              "RelativeToolTip": "Parcial1\\Modelo\\Vehiculo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:02:18.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Parcial1.csproj",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Parcial1.csproj",
+              "RelativeDocumentMoniker": "Parcial1\\Parcial1.csproj",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Parcial1.csproj",
+              "RelativeToolTip": "Parcial1\\Parcial1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T15:16:37.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Form1.cs",
+              "RelativeDocumentMoniker": "Parcial1\\Form1.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Form1.cs",
+              "RelativeToolTip": "Parcial1\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAtwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:15:36.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Principal.cs",
+              "RelativeDocumentMoniker": "WinApp\\Principal.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinApp\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:30:11.291Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Furgon.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Modelo\\Furgon.cs",
+              "RelativeDocumentMoniker": "Parcial1\\Modelo\\Furgon.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Modelo\\Furgon.cs",
+              "RelativeToolTip": "Parcial1\\Modelo\\Furgon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:02:39.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Modelo\\Auto.cs",
+              "RelativeDocumentMoniker": "Parcial1\\Modelo\\Auto.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Modelo\\Auto.cs",
+              "RelativeToolTip": "Parcial1\\Modelo\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:02:44.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Form1.cs",
+              "RelativeDocumentMoniker": "Parcial1\\Form1.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Parcial1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:15:22.105Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Polimorfismo.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Polimorfismo.cs",
+              "RelativeDocumentMoniker": "WinApp\\Polimorfismo.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Polimorfismo.cs",
+              "RelativeToolTip": "WinApp\\Polimorfismo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:20:59.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Polimorfismo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Polimorfismo.cs",
+              "RelativeDocumentMoniker": "WinApp\\Polimorfismo.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Polimorfismo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinApp\\Polimorfismo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:18:47.833Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Eventos.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Eventos.cs",
+              "RelativeDocumentMoniker": "WinApp\\Eventos.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Eventos.cs",
+              "RelativeToolTip": "WinApp\\Eventos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:23:34.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Polimorfismo\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "WinApp\\Modelo\\Polimorfismo\\Rectangulo.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Polimorfismo\\Rectangulo.cs",
+              "RelativeToolTip": "WinApp\\Modelo\\Polimorfismo\\Rectangulo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:28:03.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dibujo.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Polimorfismo\\Dibujo.cs",
+              "RelativeDocumentMoniker": "WinApp\\Modelo\\Polimorfismo\\Dibujo.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Polimorfismo\\Dibujo.cs",
+              "RelativeToolTip": "WinApp\\Modelo\\Polimorfismo\\Dibujo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:46:32.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Polimorfismo\\Figura.cs",
+              "RelativeDocumentMoniker": "WinApp\\Modelo\\Polimorfismo\\Figura.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Polimorfismo\\Figura.cs",
+              "RelativeToolTip": "WinApp\\Modelo\\Polimorfismo\\Figura.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:24:36.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Miembros de clase\\Configuration.cs",
+              "RelativeDocumentMoniker": "WinApp\\Modelo\\Miembros de clase\\Configuration.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Miembros de clase\\Configuration.cs",
+              "RelativeToolTip": "WinApp\\Modelo\\Miembros de clase\\Configuration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:03:33.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Polimorfismo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "WinApp\\Modelo\\Polimorfismo\\Triangulo.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Polimorfismo\\Triangulo.cs",
+              "RelativeToolTip": "WinApp\\Modelo\\Polimorfismo\\Triangulo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:24:01.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Eventos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Eventos.cs",
+              "RelativeDocumentMoniker": "WinApp\\Eventos.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Eventos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinApp\\Eventos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:19:25.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Proveedor.cs",
+              "RelativeDocumentMoniker": "WinApp\\Modelo\\Proveedor.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Proveedor.cs",
+              "RelativeToolTip": "WinApp\\Modelo\\Proveedor.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:57:32.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Persona.cs",
+              "RelativeDocumentMoniker": "WinApp\\Modelo\\Persona.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Persona.cs",
+              "RelativeToolTip": "WinApp\\Modelo\\Persona.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:56:23.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Principal.cs",
+              "RelativeDocumentMoniker": "WinApp\\Principal.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Principal.cs",
+              "RelativeToolTip": "WinApp\\Principal.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAYwKQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:28:57.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\App.config",
+              "RelativeDocumentMoniker": "WinApp\\App.config",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\App.config",
+              "RelativeToolTip": "WinApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-09T23:27:53.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClaseIndizada.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\ClaseIndizada.cs",
+              "RelativeDocumentMoniker": "WinApp\\Modelo\\ClaseIndizada.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\ClaseIndizada.cs",
+              "RelativeToolTip": "WinApp\\Modelo\\ClaseIndizada.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:59:35.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WinApp",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\WinApp.csproj",
+              "RelativeDocumentMoniker": "WinApp\\WinApp.csproj",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\WinApp.csproj",
+              "RelativeToolTip": "WinApp\\WinApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-09T23:26:07.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\App.config",
+              "RelativeDocumentMoniker": "ClaseFramework\\App.config",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\App.config",
+              "RelativeToolTip": "ClaseFramework\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-09T23:12:25.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "WinApp\\Modelo\\Cliente.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "WinApp\\Modelo\\Cliente.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:58:56.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Program.cs",
+              "RelativeDocumentMoniker": "WinApp\\Program.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\WinApp\\Program.cs",
+              "RelativeToolTip": "WinApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:25:45.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClienteEncapsulamiento.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase3\\ClienteEncapsulamiento.cs",
+              "RelativeDocumentMoniker": "ClaseFramework\\Clase3\\ClienteEncapsulamiento.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase3\\ClienteEncapsulamiento.cs",
+              "RelativeToolTip": "ClaseFramework\\Clase3\\ClienteEncapsulamiento.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:42:09.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase2\\Persona.cs",
+              "RelativeDocumentMoniker": "ClaseFramework\\Clase2\\Persona.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase2\\Persona.cs",
+              "RelativeToolTip": "ClaseFramework\\Clase2\\Persona.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T00:50:43.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\AccesoDatos\\Configuration.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Configuration.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\AccesoDatos\\Configuration.cs",
+              "RelativeToolTip": "AccesoDatos\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T00:13:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\AccesoDatos\\FileManager.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\FileManager.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\AccesoDatos\\FileManager.cs",
+              "RelativeToolTip": "AccesoDatos\\FileManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T00:12:42.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Cajero.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase2\\Cajero.cs",
+              "RelativeDocumentMoniker": "ClaseFramework\\Clase2\\Cajero.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase2\\Cajero.cs",
+              "RelativeToolTip": "ClaseFramework\\Clase2\\Cajero.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T00:08:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Oficial.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase2\\Oficial.cs",
+              "RelativeDocumentMoniker": "ClaseFramework\\Clase2\\Oficial.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase2\\Oficial.cs",
+              "RelativeToolTip": "ClaseFramework\\Clase2\\Oficial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T00:07:54.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase2\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClaseFramework\\Clase2\\Cliente.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Clase2\\Cliente.cs",
+              "RelativeToolTip": "ClaseFramework\\Clase2\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T00:07:26.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Clase1\\Program.cs",
+              "RelativeDocumentMoniker": "Clase1\\Program.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Clase1\\Program.cs",
+              "RelativeToolTip": "Clase1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:26:51.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Clase1\\Factura.cs",
+              "RelativeDocumentMoniker": "Clase1\\Factura.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\Clase1\\Factura.cs",
+              "RelativeToolTip": "Clase1\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:28:59.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Program.cs",
+              "RelativeDocumentMoniker": "ClaseFramework\\Program.cs",
+              "ToolTip": "D:\\Facultad\\POO\\Cursada verano\\Clase1\\Clase1\\ClaseFramework\\Program.cs",
+              "RelativeToolTip": "ClaseFramework\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:28:29.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

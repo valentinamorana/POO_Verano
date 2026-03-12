@@ -1,0 +1,7 @@
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\GenericLinq\bin\Debug\GenericLinq.exe.config
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\GenericLinq\bin\Debug\GenericLinq.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\GenericLinq\bin\Debug\GenericLinq.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\GenericLinq\obj\Debug\GenericLinq.csproj.AssemblyReference.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\GenericLinq\obj\Debug\GenericLinq.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\GenericLinq\obj\Debug\GenericLinq.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\GenericLinq\obj\Debug\GenericLinq.pdb

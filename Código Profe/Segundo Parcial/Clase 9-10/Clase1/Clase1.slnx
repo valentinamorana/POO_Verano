@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AccesoDatos/AccesoDatos.csproj" Id="04a5dc46-ac49-4b02-a7c1-6bd00d0f7282" />
+  <Project Path="Clase1/Clase1.csproj" />
+  <Project Path="ClaseFramework/ClaseFramework.csproj" Id="c7d84247-63c4-47a8-bc6d-d4613b8b918a" />
+  <Project Path="Exceptions/Exceptions.csproj" Id="5509ef34-b554-4925-98a2-1e97addb45d1" />
+  <Project Path="Parcial1/Parcial1.csproj" Id="48b7d009-76af-4ab2-bcd0-44aeb434e35e" />
+  <Project Path="WinApp/WinApp.csproj" Id="84dd6560-a7ea-4662-afe1-7ffbbd220987" />
+</Solution>
