@@ -1,0 +1,7 @@
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Exceptions\bin\Debug\Exceptions.exe.config
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Exceptions\bin\Debug\Exceptions.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Exceptions\bin\Debug\Exceptions.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Exceptions\obj\Debug\Exceptions.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\Exceptions\obj\Debug\Exceptions.pdb

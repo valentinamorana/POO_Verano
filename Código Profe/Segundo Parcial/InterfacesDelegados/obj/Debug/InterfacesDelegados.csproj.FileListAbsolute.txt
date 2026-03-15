@@ -1,0 +1,7 @@
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\InterfacesDelegados\bin\Debug\InterfacesDelegados.exe.config
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\InterfacesDelegados\bin\Debug\InterfacesDelegados.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\InterfacesDelegados\bin\Debug\InterfacesDelegados.pdb
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\InterfacesDelegados\obj\Debug\InterfacesDelegados.csproj.AssemblyReference.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\InterfacesDelegados\obj\Debug\InterfacesDelegados.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\InterfacesDelegados\obj\Debug\InterfacesDelegados.exe
+D:\Facultad\POO\Cursada verano\Clase1\Clase1\InterfacesDelegados\obj\Debug\InterfacesDelegados.pdb
