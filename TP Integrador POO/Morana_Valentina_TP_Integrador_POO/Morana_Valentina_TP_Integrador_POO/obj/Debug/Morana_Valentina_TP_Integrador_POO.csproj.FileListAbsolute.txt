@@ -1,0 +1,10 @@
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\bin\Debug\Morana_Valentina_TP_Integrador_POO.exe.config
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\bin\Debug\Morana_Valentina_TP_Integrador_POO.exe
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\bin\Debug\Morana_Valentina_TP_Integrador_POO.pdb
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\obj\Debug\Morana_Valentina_TP_Integrador_POO.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\obj\Debug\Morana_Valentina_TP_Integrador_POO.PLSLogisticsForm.resources
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\obj\Debug\Morana_Valentina_TP_Integrador_POO.Properties.Resources.resources
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\obj\Debug\Morana_Valentina_TP_Integrador_POO.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\obj\Debug\Morana_Valentina_TP_Integrador_POO.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\obj\Debug\Morana_Valentina_TP_Integrador_POO.exe
+C:\Users\valen\source\repos\POO\TP Integrador POO\Morana_Valentina_TP_Integrador_POO\Morana_Valentina_TP_Integrador_POO\obj\Debug\Morana_Valentina_TP_Integrador_POO.pdb

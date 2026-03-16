@@ -16,7 +16,7 @@ namespace Morana_Valentina_TP_Integrador_POO
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new PLSLogisticsForm());
         }
     }
 }

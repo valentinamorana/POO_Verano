@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4F6B00D6-D132-4CCF-9E3A-BB296037009C}</ProjectGuid>
+    <ProjectGuid>{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Morana_Valentina_TP_Integrador_POO</RootNamespace>
     <AssemblyName>Morana_Valentina_TP_Integrador_POO</AssemblyName>
@@ -46,14 +46,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Envio.cs" />
+    <Compile Include="ComparadoresEnvio.cs" />
+    <Compile Include="ListaEnvios.cs" />
+    <Compile Include="PLS Logistics.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="PLS Logistics.Designer.cs">
+      <DependentUpon>PLS Logistics.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PLS Logistics.resx">
+      <DependentUpon>PLS Logistics.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

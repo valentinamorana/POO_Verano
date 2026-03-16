@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F6B00D6-D132-4CCF-9E3A-BB296037009C}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\tp integrador poo\\morana_valentina_tp_integrador_poo\\morana_valentina_tp_integrador_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F6B00D6-D132-4CCF-9E3A-BB296037009C}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|solutionrelative:morana_valentina_tp_integrador_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|c:\\users\\valen\\source\\repos\\poo\\tp integrador poo\\morana_valentina_tp_integrador_poo\\morana_valentina_tp_integrador_poo\\pls logistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|solutionrelative:morana_valentina_tp_integrador_poo\\pls logistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\morana_valentina_tp_integrador_poo\\pls logistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|solutionrelative:morana_valentina_tp_integrador_poo\\pls logistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\morana_valentina_tp_integrador_poo\\comparadoresenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|solutionrelative:morana_valentina_tp_integrador_poo\\comparadoresenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\morana_valentina_tp_integrador_poo\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|solutionrelative:morana_valentina_tp_integrador_poo\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\morana_valentina_tp_integrador_poo\\listaenvios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A120FDBE-07C1-48B3-8B64-058ACFCFFABF}|Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO.csproj|solutionrelative:morana_valentina_tp_integrador_poo\\listaenvios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PLS Logistics.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\PLS Logistics.cs",
+              "RelativeDocumentMoniker": "Morana_Valentina_TP_Integrador_POO\\PLS Logistics.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\PLS Logistics.cs",
+              "RelativeToolTip": "Morana_Valentina_TP_Integrador_POO\\PLS Logistics.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T22:18:08.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\Form1.cs",
-              "RelativeDocumentMoniker": "Morana_Valentina_TP_Integrador_POO\\Form1.cs",
-              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\Form1.cs [Design]",
-              "RelativeToolTip": "Morana_Valentina_TP_Integrador_POO\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "PLS Logistics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\PLS Logistics.cs",
+              "RelativeDocumentMoniker": "Morana_Valentina_TP_Integrador_POO\\PLS Logistics.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\PLS Logistics.cs [Design]",
+              "RelativeToolTip": "Morana_Valentina_TP_Integrador_POO\\PLS Logistics.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T22:37:04.215Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-16T03:39:35.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Envio.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\Envio.cs",
+              "RelativeDocumentMoniker": "Morana_Valentina_TP_Integrador_POO\\Envio.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\Envio.cs",
+              "RelativeToolTip": "Morana_Valentina_TP_Integrador_POO\\Envio.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:53:53.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComparadoresEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\ComparadoresEnvio.cs",
+              "RelativeDocumentMoniker": "Morana_Valentina_TP_Integrador_POO\\ComparadoresEnvio.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\ComparadoresEnvio.cs",
+              "RelativeToolTip": "Morana_Valentina_TP_Integrador_POO\\ComparadoresEnvio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:58:44.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaEnvios.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\ListaEnvios.cs",
+              "RelativeDocumentMoniker": "Morana_Valentina_TP_Integrador_POO\\ListaEnvios.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\POO\\TP Integrador POO\\Morana_Valentina_TP_Integrador_POO\\Morana_Valentina_TP_Integrador_POO\\ListaEnvios.cs",
+              "RelativeToolTip": "Morana_Valentina_TP_Integrador_POO\\ListaEnvios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:59:08.531Z"
             }
           ]
         }
